@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45128112435",
+    "project_id": "sgp-1-ca159",
+    "storage_bucket": "sgp-1-ca159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45128112435:android:7676f7b9c7e42bba790646",
+        "android_client_info": {
+          "package_name": "com.example.mvapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSWPslVhCxxRRe5b-wbgucbV6fcGFvFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

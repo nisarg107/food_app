@@ -1,7 +1,6 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:mvapp/constants/constant.dart';
-import 'package:mvapp/services/bottombar.dart';
 import 'package:mvapp/services/pagenotifier.dart';
 import 'package:mvapp/views/home/homepage.dart';
 import 'package:mvapp/views/profile/profilepage.dart';
